@@ -1,0 +1,21 @@
+.raycasting__canvas__2dplane{
+    border: 2px solid blue;
+}
+
+.raycasting__canvas__3dplane{
+    border: 2px solid red;
+}
+
+.raycasting__labels__slider{
+    margin: 0 auto;
+    width: 50%;
+}
+
+.raycasting__labels__slider > h4{
+margin-bottom: -5px;
+}
+
+.raycasting > h4{
+    margin-bottom: -10px;
+    margin-top: 5px;
+}

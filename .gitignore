@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+.vscode
+
+# dependencies
+raycasting/node_modules
+raycasting/.pnp
+raycasting/.pnp.js
+
+# testing
+raycasting/coverage
+
+# production
+raycasting/build
+
+# misc
+raycasting.DS_Store
+raycasting.env.local
+raycasting.env.development.local
+raycasting.env.test.local
+raycasting.env.production.local
+
+raycasting/npm-debug.log*
+raycasting/yarn-debug.log*
+raycasting/yarn-error.log*
