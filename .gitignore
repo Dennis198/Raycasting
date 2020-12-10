@@ -10,9 +10,6 @@ raycasting/.pnp.js
 # testing
 raycasting/coverage
 
-# production
-raycasting/build
-
 # misc
 raycasting.DS_Store
 raycasting.env.local
