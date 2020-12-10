@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Raycasting/static/css/main.b605f3e3.chunk.css",
+    "main.js": "/Raycasting/static/js/main.22da93c7.chunk.js",
+    "main.js.map": "/Raycasting/static/js/main.22da93c7.chunk.js.map",
+    "runtime-main.js": "/Raycasting/static/js/runtime-main.b8ab6d87.js",
+    "runtime-main.js.map": "/Raycasting/static/js/runtime-main.b8ab6d87.js.map",
+    "static/js/2.a2dcf2d6.chunk.js": "/Raycasting/static/js/2.a2dcf2d6.chunk.js",
+    "static/js/2.a2dcf2d6.chunk.js.map": "/Raycasting/static/js/2.a2dcf2d6.chunk.js.map",
+    "static/js/3.d16e11a5.chunk.js": "/Raycasting/static/js/3.d16e11a5.chunk.js",
+    "static/js/3.d16e11a5.chunk.js.map": "/Raycasting/static/js/3.d16e11a5.chunk.js.map",
+    "index.html": "/Raycasting/index.html",
+    "static/css/main.b605f3e3.chunk.css.map": "/Raycasting/static/css/main.b605f3e3.chunk.css.map",
+    "static/js/2.a2dcf2d6.chunk.js.LICENSE.txt": "/Raycasting/static/js/2.a2dcf2d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8ab6d87.js",
+    "static/js/2.a2dcf2d6.chunk.js",
+    "static/css/main.b605f3e3.chunk.css",
+    "static/js/main.22da93c7.chunk.js"
+  ]
+}
